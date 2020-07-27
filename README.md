@@ -56,8 +56,32 @@ Calculate infections on weekends through sampling students get contacted with ea
 
 **3\. Version 3:**
 
-` ` Calculate infections in class based on transmission rate & total number of infected students in a class
+Calculate infections in class based on transmission rate & total number of infected students in a class
 
 Calculate infections on weekends through sampling students get contacted with each student
 
 
+**4\. Version 4:**
+
+Calculate infections in class based on in-class transmission rate & total number of infected students in a class
+
+Calculate infections outside of the class but on campus based on outside-of-class transmission rate & total number of infected students in school
+
+Calculate infections off campus based on off-campus transmission rate & total number of infections in Fulton county
+
+Calculate infections on weekends through sampling students get contacted with each student per day
+
+
+**5\. Version 5:**
+
+Modify based on version 4 to adapt to the new hybrid strategies.
+
+
+**6\. Version 6:**
+
+Modify based on version 5 to add interventions including wearing masks, testing (3% of all students per day), and quarantine.
+
+
+**7\. Version 7:**
+
+Modify based on version 5 to add interventions including wearing masks, testing (300 students per day), quarantine, and contact tracing.
