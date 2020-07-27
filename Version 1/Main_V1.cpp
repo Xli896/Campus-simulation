@@ -4,6 +4,7 @@
 #include"WriteOutput.h"
 #include"StateTransition.h"
 #include"CalculateProb.h"
+#include"CalculateProb.h"
 
 int main() {
 	filenameAM.push_back("AffiliationMatrix_M.csv");
