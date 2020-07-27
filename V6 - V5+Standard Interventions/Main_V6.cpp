@@ -1,13 +1,13 @@
 #include <iostream>
 #include<cmath>
-#include"AllSchedule_V5.h"
-#include"EverydaySchedule_V5.h"
-#include"write_V5.h"
-#include"StateTransition_V5.h"
-#include"SamplingInfections_V5.h"
-#include"TransmissionInfections_V5.h"
-#include"Clear_V5.h"
-#include"TestingProcess_V5.h"
+#include"AllSchedule_V6.h"
+#include"EverydaySchedule_V6.h"
+#include"write_V6.h"
+#include"StateTransition_V6.h"
+#include"SamplingInfections_V6.h"
+#include"TransmissionInfections_V6.h"
+#include"Clear_V6.h"
+#include"TestingProcess_V6.h"
 
 
 int main() {
