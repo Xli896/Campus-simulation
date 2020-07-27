@@ -1,9 +1,9 @@
 #include <iostream>
 #include<cmath>
-#include"Openclassfile.h"
-#include"WriteOutput.h"
-#include"StateTransition.h"
-#include"CalculateProb.h"
+#include"Openclassfile_V1.h"
+#include"WriteOutput_V1.h"
+#include"StateTransition_V1.h"
+#include"CalculateProb_V1.h"
 
 
 int main() {
