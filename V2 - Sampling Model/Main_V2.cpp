@@ -1,9 +1,9 @@
 #include <iostream>
 #include<cmath>
-#include"Openclassfile.h"
-#include"write.h"
-#include"StateTransition.h"
-#include"SamplingInfections.h"
+#include"Openclassfile_V2.h"
+#include"write_V2.h"
+#include"StateTransition_V2.h"
+#include"SamplingInfections_V2.h"
 
 
 int main() {
