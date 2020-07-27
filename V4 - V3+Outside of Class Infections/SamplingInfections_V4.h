@@ -1,5 +1,5 @@
 #include <iostream>
-#include"Sample.h"
+#include"Sample_V4.h"
 
 using namespace std;
 
