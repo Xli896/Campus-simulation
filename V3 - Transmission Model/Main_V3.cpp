@@ -1,10 +1,10 @@
 #include <iostream>
 #include<cmath>
-#include"Openclassfile.h"
-#include"write.h"
-#include"StateTransition.h"
-#include"SamplingInfections.h"
-#include"InclassInfections.h"
+#include"Openclassfile_V3.h"
+#include"write_V3.h"
+#include"StateTransition_V3.h"
+#include"SamplingInfections_V3.h"
+#include"InclassInfections_V3.h"
 
 
 int main() {
