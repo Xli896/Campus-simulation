@@ -56,7 +56,7 @@ Calculate infections on weekends through sampling students get contacted with ea
 
 **3\. Version 3:**
 
-Calculate infections in class based on transmission rate & total number of infected students in a class
+` ` Calculate infections in class based on transmission rate & total number of infected students in a class
 
 Calculate infections on weekends through sampling students get contacted with each student
 
