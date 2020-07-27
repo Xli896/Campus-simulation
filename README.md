@@ -6,7 +6,7 @@ July-26
 
 ### Input Files
 
-"AffiliationMatrix.csv"/"AffiliationMatrixAll.csv" includes the assignment of all courses for all students, which is generated from the 2019 Fall registration data.
+`AffiliationMatrix.csv` / `AffiliationMatrixAll.csv` includes the assignment of all courses for all students, which is generated from the 2019 Fall registration data.
 
 "AffiliationMatrixOnCampus.csv" includes the assignment of all courses for all students living on campus, which is depended on the course scheduling strategy and housing scenario.
 
