@@ -8,15 +8,13 @@ July-26
 
 `AffiliationMatrix.csv` / `AffiliationMatrixAll.csv` includes the assignment of all courses for all students, which is generated from the 2019 Fall registration data.
 
-"AffiliationMatrixOnCampus.csv" includes the assignment of all courses for all students living on campus, which is depended on the course scheduling strategy and housing scenario.
+`AffiliationMatrixOnCampus.csv` includes the assignment of all courses for all students living on campus, which is depended on the course scheduling strategy and housing scenario.
 
-"AffiliationMatrix_M/T/W/R/F/S.csv" includes the assignment of courses for students each weekday from Monday to Saturday respectively.
+`AffiliationMatrix_M/T/W/R/F/S.csv` includes the assignment of courses for students each weekday from Monday to Saturday respectively.
 
 ### Output Files
 
-"AffiliationMatrix.csv"/"AffiliationMatrixAll.csv" includes the assignment of all courses for all students, which is generated from the 2019 Fall registration data
-"AffiliationMatrixOnCampus.csv" includes the assignment of all courses for all students living on campus, which is depended on the course scheduling strategy and housing scenario.
-"AffiliationMatrix_M/T/W/R/F/S.csv" includes the assignment of courses for students each weekday from Monday to Saturday respectively.
+
 
 ### Different versions of simulation model
 
