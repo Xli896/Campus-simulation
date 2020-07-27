@@ -20,10 +20,3 @@ float PS=0.66;  //Probability of Symptomatic
 float PA=0.34;  //Probability of Asymptomatic
 float PH=0.143;   //Probability of Hospitalization
 float PDE=0.0515;  //Probability a person who is hospitalized dies
-
-
-//float STA=1.5;   //Symptomatic-to-Asymptomatic duration ratio
-//float RTD=9.9;   //Recover-to-Death ratio
-//quarantine for state S and H 
-//float p=0.005; //Probability of getting infected by a student j given they share a class together and social distance
-
