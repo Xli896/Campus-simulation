@@ -96,13 +96,13 @@ Modify based on version 6 to add interventions including wearing masks, testing 
 
 **Infection models included:**
 
-Calculate new infections in each class based on transmission rate and  total number of infected students in the class
+Calculate new infections in each class based on transmission rate and total number of infected students in the class
 
 Calculate new infections outside of class based on transmission rate and total number of infected students in school
 
 Calculate new infections introduced from the external source based on a constant rate of external infection
 
-Calculate new infections through social activities via Sampling 30 students contacted with each student during 3 hours
+Calculate new infections through social activities on Thursday, Friday, and Saturday via Sampling 30 students contacted with each student during 3 hours
 
 Calculate new infections on Sunday via Sampling NW students contacted with each student each day
 
