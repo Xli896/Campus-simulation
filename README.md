@@ -110,3 +110,4 @@ Calculate new infections on Sunday via Sampling NW students contacted with each 
 
 Wearing masks;  Testing;  Contact tracing;  Quarantine
 
+
